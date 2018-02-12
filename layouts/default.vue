@@ -63,6 +63,16 @@ html {
 	background-color: #35495e;
 }
 
+.button--purple {
+	color: #8292ea;
+	border: 1px solid #8292ea;
+}
+
+.button--purple:hover {
+	color: #fff;
+	background-color: #8292ea;
+}
+
 @media (min-width: 768px) {
 	.button {
 		display: inline-block;

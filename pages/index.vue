@@ -12,6 +12,7 @@
 			<a href="https://www.meetup.com/Vue-DC/" target="_blank" class="button button--green">Meetup Events</a>
 			<a href="https://github.com/vuedc" target="_blank" class="button button--grey">GitHub</a>
 			<a href="https://twitter.com/vuejsdc" target="_blank" class="button button--blue">Twitter</a>
+			<a href="https://discord.gg/6MZWP8z" target="_blank" class="button button--purple">Discord</a>
 		</div>
 	</div>
 </section>
