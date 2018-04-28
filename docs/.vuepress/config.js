@@ -8,6 +8,10 @@ module.exports = {
 			{
 				text: 'Home',
 				link: '/'
+			},
+			{
+				text: 'Overview',
+				link: '/overview/'
 			}
 		]
 	}

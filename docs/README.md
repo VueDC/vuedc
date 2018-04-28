@@ -2,7 +2,7 @@
 home: true
 heroImage: /vuedc-logo.png
 actionText: Get Started
-actionLink: /
+actionLink: /overview/
 features:
 - title: Meetups
   details: Every month we have speakers come talk about various topics with Vue.js!
