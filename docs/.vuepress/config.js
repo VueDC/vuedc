@@ -13,6 +13,10 @@ module.exports = {
 			{
 				text: 'Overview',
 				link: '/overview/'
+			},
+			{
+				text: 'Code of Conduct',
+				link: '/code-of-conduct/'
 			}
 		]
 	}
