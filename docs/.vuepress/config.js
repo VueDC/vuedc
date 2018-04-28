@@ -3,6 +3,7 @@ module.exports = {
 	title: 'VueDC',
 	description:
 		'Calling all prospective and enthusiastic people about Vue.js in the DC Metro Area!',
+	dest: './dist',
 	themeConfig: {
 		nav: [
 			{
