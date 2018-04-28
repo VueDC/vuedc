@@ -1,22 +1,28 @@
-# vuedc
+# VueDC
 
-> VueDC Website
+This repository contains the code that creates the VueDC website.
 
-## Build Setup
+You can visit the live site here: [https://www.vuedc.io](https://www.vuedc.io)
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
+## Getting Setup
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+### Dependencies
 
-# build for production and launch server
-$ npm run build
-$ npm start
+1.  [Node.js](https://nodejs.org/en/)
+2.  [Yarn (Recommended but optional)](https://yarnpkg.com/en/docs/install#mac-stable)
 
-# generate static project
-$ npm run generate
+### Instructions
+
+#### Setting Up Your Local Environment
+
+1.  Navigate to project directory in terminal
+2.  Run `yarn` or `npm install`
+3.  Run `yarn dev` or `npm run dev`
+
+If successful, you should see a message such as:
+
 ```
+VuePress dev server listening at http://localhost:8080/
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+[09:46:37] ✔ successfully compiled.
+```
