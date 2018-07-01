@@ -1,0 +1,39 @@
+[
+	{
+		"date": "2018.06.28",
+		"type": "CodeLabs",
+		"location": "Rosslyn, VA",
+		"rsvp": 51,
+		"attendance": 14,
+		"food": {
+			"cost": 64.06,
+			"order": [
+				{
+					"name": "pizza",
+					"detail": "cheese",
+					"quantity": 2
+				},
+				{
+					"name": "pizza",
+					"detail": "pepperoni",
+					"quantity": 2
+				},
+				{
+					"name": "pizza",
+					"detail": "veggie",
+					"quantity": 2
+				},
+				{
+					"name": "pizza",
+					"detail": "hawaiian",
+					"quantity": 2
+				}
+			]
+		},
+		"sponsor": {
+			"eventSpace": "Politico",
+			"food": "Politico",
+			"drink": "Politico"
+		}
+	}
+]
