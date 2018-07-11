@@ -17,6 +17,10 @@ module.exports = {
 			{
 				text: 'Code of Conduct',
 				link: '/code-of-conduct/'
+			},
+			{
+				text: 'Submit a Bug/Change',
+				link: 'https://github.com/VueDC/vuedc/issues/new'
 			}
 		]
 	}
