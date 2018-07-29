@@ -17,13 +17,14 @@ Welcome to the official site for VueDC!
 
 <!-- ## Vuex in Action! (2018.07.11)
 
-* Speaker: Jacob Schatz
+* Speaker: Jacob Schatz -->
 
 ## Testing in Vue.js! (2018.06.20)
 
 * Speaker: Brian Kidd
+* [Slides & Demo Code](https://github.com/VueDC/testing-in-vuejs)
 
-## Vue.js Lightning Talks! (2018.05.16)
+<!--## Vue.js Lightning Talks! (2018.05.16)
 
 ## VueConf.US 2018 Highlights! (2018.04.18)
 
@@ -47,6 +48,5 @@ Welcome to the official site for VueDC!
 
 ## Vue.js 101 (2017.12.06)
 
-* [Recording](https://www.youtube.com/watch?v=N5CB0iUuyqo)
-* [Slides](https://github.com/VueDC/vuejs-101-the-essentials/blob/master/slides/2017-12-06-vuejs-101-the-essentials.pdf)
-* [Vue.js 101 Kit CodePen Collection](https://codepen.io/collection/DmRKRB/)
+* Speaker: Benjamin Hong
+* [Recording, Slides, Vue.js 101 Kit CodePen Collection](https://github.com/VueDC/testing-in-vuejs)
