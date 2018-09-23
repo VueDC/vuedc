@@ -11,8 +11,8 @@ module.exports = {
 				link: '/'
 			},
 			{
-				text: 'Overview',
-				link: '/overview/'
+				text: 'Resources',
+				link: '/resources/'
 			},
 			{
 				text: 'Code of Conduct',
