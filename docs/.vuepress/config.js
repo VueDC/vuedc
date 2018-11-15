@@ -11,6 +11,14 @@ module.exports = {
 				link: '/'
 			},
 			{
+				text: 'Community',
+				link: '/community/'
+			},
+			{
+				text: 'Archive',
+				link: '/archive/'
+			},
+			{
 				text: 'Resources',
 				link: '/resources/'
 			},
