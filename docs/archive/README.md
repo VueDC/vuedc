@@ -7,7 +7,7 @@
 - Speaker: Tracey Holinka
 - [Slides, Demo Code & Recording](https://github.com/VueDC/storybook-and-storyshot-testing-with-vuejs)
 
-### Testing in Vue.js! (2018.06.20)
+### Testing in Vue.js (2018.06.20)
 
 - Speaker: Brian Kidd
 - [Slides, Demo Code & Recording](https://github.com/VueDC/testing-in-vuejs)
