@@ -12,3 +12,6 @@ sidebar: auto
   - A great introductory class, that jumps right into manipulating HTML with Vue on a basic page
 
 ## Advanced
+
+- [Vue Enterprise Boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+  - From Chris Fritz, one of the most active Vue Core Team members. The enterprise boilerplate gives opinionated recommendations for a scalable architecture & patterns
