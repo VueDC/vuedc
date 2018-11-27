@@ -2,6 +2,11 @@
 
 ## Past Meetups
 
+### Vue CLI 3 Walkthrough (2018.10.17)
+
+- Speaker: Christian Guirreri
+- [Slides & Recording](https://github.com/VueDC/vue-cli-3-walkthrough)
+
 ### Storybook and Storyshot Testing w/ Vue.js (2018.09.19)
 
 - Speaker: Tracey Holinka
