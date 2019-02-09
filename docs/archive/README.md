@@ -2,6 +2,16 @@
 
 ## Past Meetups
 
+### VueDC Lightning Talks 2019! (2019.1.16)
+Speakers and Topics:
+- "Thinking Outside The Box With Vue" by Matt Morgante (@Havesomegante)
+- "Learning Vue Components on a GitHub Pages Site" by Benjamin Ortiz
+- "Composing Code for Reuse" by Matt Doig (@dogwith1eye)
+- "Vue Patterns - Learnings going from Backbone to Vue" by Thibaud Morel (@teebesz)
+- "Page Structure APIs and Dynamic Components" by Evan Sanderson
+
+[Recording](https://www.youtube.com/watch?v=O3mncERjW-A&t=7s)
+
 ### Vue CLI 3 Walkthrough (2018.10.17)
 
 - Speaker: Christian Guirreri
