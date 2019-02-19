@@ -2,6 +2,11 @@
 
 ## Past Meetups
 
+### Optoro's Next Steps with Vue.js (2019.2.13)
+
+- Speaker: Andrew Krawchyk
+- [Slides & Recording](https://github.com/VueDC/Optoros-Next-Steps-with-Vue.js)
+
 ### VueDC Lightning Talks 2019! (2019.1.16)
 Speakers and Topics:
 - "Thinking Outside The Box With Vue" by Matt Morgante (@Havesomegante)
