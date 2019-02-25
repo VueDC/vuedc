@@ -17,6 +17,11 @@ Speakers and Topics:
 
 [Recording](https://www.youtube.com/watch?v=O3mncERjW-A&t=7s)
 
+### VueDC Workshops: Let's Add TypeScript (2018.12.12)
+
+- Speaker: Jack Koppa:
+- [Recording](https://youtu.be/J1PdiRDUbDA)
+
 ### Vue CLI 3 Walkthrough (2018.10.17)
 
 - Speaker: Christian Guirreri
