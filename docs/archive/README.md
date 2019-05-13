@@ -2,12 +2,33 @@
 
 ## Past Meetups
 
+# VueConf.US 2019 Highlights! (2019.4.17)
+
+Speakers: 
+- Chris Guirreri (Politico)
+- Tracey Holinka (Bloomberg BNA)
+- Brad Balfour (Bloomberg)
+- Andrew Krawchyk (Optoro)
+- Ben Hong (GitLab)
+
+[Recording](https://www.youtube.com/watch?v=mzP1hDMnLTY&t=8s)
+
+# Vue at Phone2Action Lessons for Testing Routing (2019.3.13)
+
+Speakers and Topics:
+- Testing Vue With Test Cafe and Mock Backends by Ben Scheib (Phone2Action)
+- Vue-Router: The Practical Side by JP Mugabe (Phone2Action)
+- Running a Horse Show with Vue by Bryan Strong
+
+[Slides & Demo Code](https://github.com/VueDC/Vue-at-Phone2Action-Lessons-for-Testing-Routing)
+
 ### Optoro's Next Steps with Vue.js (2019.2.13)
 
-- Speaker: Andrew Krawchyk
+- Speaker: Andrew Krawchyk (Optoro)
 - [Slides & Recording](https://github.com/VueDC/Optoros-Next-Steps-with-Vue.js)
 
 ### VueDC Lightning Talks 2019! (2019.1.16)
+
 Speakers and Topics:
 - "Thinking Outside The Box With Vue" by Matt Morgante (@Havesomegante)
 - "Learning Vue Components on a GitHub Pages Site" by Benjamin Ortiz
@@ -19,40 +40,40 @@ Speakers and Topics:
 
 ### VueDC Workshops: Let's Add TypeScript (2018.12.12)
 
-- Speaker: Jack Koppa:
+- Speaker: Jack Koppa (Politico)
 - [Recording](https://youtu.be/J1PdiRDUbDA)
 
 ### Vue CLI 3 Walkthrough (2018.10.17)
 
-- Speaker: Christian Guirreri
+- Speaker: Christian Guirreri (Politico)
 - [Slides & Recording](https://github.com/VueDC/vue-cli-3-walkthrough)
 
 ### Storybook and Storyshot Testing w/ Vue.js (2018.09.19)
 
-- Speaker: Tracey Holinka
+- Speaker: Tracey Holinka (Bloomberg BNA)
 - [Slides, Demo Code & Recording](https://github.com/VueDC/storybook-and-storyshot-testing-with-vuejs)
 
 ### Testing in Vue.js (2018.06.20)
 
-- Speaker: Brian Kidd
+- Speaker: Brian Kidd (Bloomberg BNA)
 - [Slides, Demo Code & Recording](https://github.com/VueDC/testing-in-vuejs)
 
 ### Vue.js – Beyond REST to GraphQL (2018.03.14)
 
-- Speakers: Tracey Holinka, Priya Kathiri & Ronald Rogers
+- Speakers: Tracey Holinka, Priya Kathiri & Ronald Rogers (Bloomberg BNA)
 - [Slides, Demo Code & Recording](https://github.com/VueDC/beyond-rest-to-graphql)
 
 ### Not Quite a Library: Reusing Components Before You're Sure How (2018.02.13)
 
-- Speaker: Dylan Hughes
+- Speaker: Dylan Hughes (Optoro)
 - [Recording, Sildes & Book Reference](https://github.com/VueDC/not-quite-a-library)
 
 ### Vue.js 201 (2018.01.17)
 
-- Speaker: Christian Guirreri
+- Speaker: Christian Guirreri (Politico)
 - [Demos](https://github.com/VueDC/vuejs-201)
 
 ### Vue.js 101 (2017.12.06)
 
-- Speaker: Benjamin Hong
+- Speaker: Benjamin Hong (Politico)
 - [Recording, Slides, Vue.js 101 Kit CodePen Collection](https://github.com/VueDC/testing-in-vuejs)
