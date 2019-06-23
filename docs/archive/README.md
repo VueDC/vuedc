@@ -1,8 +1,23 @@
-# Archive
+# Archives
 
 ## Past Meetups
 
-# VueConf.US 2019 Highlights! (2019.4.17)
+### CSS Modules in Vue.js (2019.6.19)
+
+- Speaker: Tracey Holinka (Bloomberg BNA)
+- [Demo Code & Slides](https://github.com/TraceyHolinka/css-modules-in-vuejs)
+
+### Lightning Talks (2019.5.15)
+
+Speakers and Topics:
+- Dean Wagner: A Case Study on Firebase/Vue/Vuetify
+- Chris Guirreri: Nexus (private NPM hosting) + Vue
+- Thibaud Morel: Using WebSockets in Vue.js
+- Matthew Wojtowicz: Introduction to Gridsome
+
+Resources comming soon.
+
+### VueConf.US 2019 Highlights! (2019.4.17)
 
 Speakers: 
 - Chris Guirreri (Politico)
@@ -13,7 +28,7 @@ Speakers:
 
 [Recording](https://www.youtube.com/watch?v=mzP1hDMnLTY&t=8s)
 
-# Vue at Phone2Action Lessons for Testing Routing (2019.3.13)
+### Vue at Phone2Action Lessons for Testing Routing (2019.3.13)
 
 Speakers and Topics:
 - Testing Vue With Test Cafe and Mock Backends by Ben Scheib (Phone2Action)
