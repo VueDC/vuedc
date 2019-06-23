@@ -1,4 +1,4 @@
-# Archives
+# Archive
 
 ## Past Meetups
 
