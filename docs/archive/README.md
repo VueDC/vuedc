@@ -2,6 +2,16 @@
 
 ## Past Meetups
 
+### Vue.js + D3: Creating Beautiful Visualizations (2019.8.14)
+- Speaker: Jon Snyder (ONE Discovery)
+- [Workshop Code](https://github.com/thegoodideaco/visualizing-hierarchies)
+- [Video](https://www.youtube.com/watch?v=GuecoTcqmVE&feature=youtu.be)
+
+### Hello Weather - Let's explore Vue Native together! (2019.7.24)
+
+- Speaker: Amy Detwiler (Optoro)
+- [Workshop Code](https://github.com/duaimei/hello-weather)
+
 ### CSS Modules in Vue.js (2019.6.19)
 
 - Speaker: Tracey Holinka (Bloomberg BNA)
@@ -14,8 +24,6 @@ Speakers and Topics:
 - Chris Guirreri: Nexus (private NPM hosting) + Vue
 - Thibaud Morel: Using WebSockets in Vue.js
 - Matthew Wojtowicz: Introduction to Gridsome
-
-Resources comming soon.
 
 ### VueConf.US 2019 Highlights! (2019.4.17)
 
