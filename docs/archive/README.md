@@ -11,6 +11,7 @@
 ### Taking GraphQL, Apollo & Vue.js to the Next Level (2019.9.18)
 - Speakers: Ronald Rogers (Bloomberg Industry Group), Ben Hong (GitLab) & Tracey Holinka (Bloomberg Industry Group)
 - [Workshop Code](https://github.com/ronald-d-rogers/vue-graphql-workshop)
+- [Slides](https://www.icloud.com/keynote/0uV4mLQ8_U962n_cn6J6Kzuxg#Taking_GraphQL%2C_Apollo_%26_Vue.js_to_the_Next_Level)
 
 ### Vue.js + D3: Creating Beautiful Visualizations (2019.8.14)
 - Speaker: Jon Snyder (ONE Discovery)
