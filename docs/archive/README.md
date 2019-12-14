@@ -2,6 +2,16 @@
 
 ## Past Meetups
 
+### Type-Safe APIs - Syncing Back & Front End Types w/ Code Generation (2019.11.13)
+- Speaker: Jack Koppa (Politico)
+- [Workshop Code](https://github.com/jackkoppa/typesafe-api-clients-demo)
+- [Video](https://www.youtube.com/watch?v=Tbn04FU3Ku0)
+- [Slides](https://docs.google.com/presentation/d/1foL-tGd4PKQzhX7-etfV86ezgF74Z9QfSpIO-ivEe2o/edit#slide=id.g35f391192_04)
+
+### Taking GraphQL, Apollo & Vue.js to the Next Level (2019.9.18)
+- Speaker: Ronald Rogers (Bloomberg Industry Group)
+- [Workshop Code](https://github.com/ronald-d-rogers/vue-graphql-workshop)
+
 ### Vue.js + D3: Creating Beautiful Visualizations (2019.8.14)
 - Speaker: Jon Snyder (ONE Discovery)
 - [Workshop Code](https://github.com/thegoodideaco/visualizing-hierarchies)
