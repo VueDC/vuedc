@@ -1,42 +1,6 @@
-Date,Type,Location,RSVP,Attendance,Food,Remaining,Sponsor
-2018.06.28,CodeLabs,"Politico - Rosslyn, VA",51,14,8 pizzas,1.5,Politico
-2018.07.11,Speaker,"Politico - Rosslyn, VA",59,26,10 pizzas,1.5,Politico
-2018.07.25,CodeLabs,"Politico - Rosslyn, VA",36,10,6 pizzas,1.5,Politico
-2018.08.09,CodeLabs,"Politico - Rosslyn, VA",28,10,5 pizzas,1,Politico
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Date,Type,Location,RSVP,Attendance,Food,Meat,Vegetarian,Remaining,Sponsor
+2018.06.28,CodeLabs,"Politico - Rosslyn, VA",51,14,8 pizzas,,,1.5,Politico
+2018.07.11,Speaker,"Politico - Rosslyn, VA",59,26,10 pizzas,,,1.5,Politico
+2018.07.25,CodeLabs,"Politico - Rosslyn, VA",36,10,6 pizzas,,,1.5,Politico
+2018.08.09,CodeLabs,"Politico - Rosslyn, VA",28,10,5 pizzas,,,1,Politico
+2019.12.18,Speaker,Politico - Rosslyn VA,52,25,Medium 12” Dominos Pizza,5 pizzas,2 pizzas,0,Politico
