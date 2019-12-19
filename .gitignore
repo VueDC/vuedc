@@ -6,3 +6,6 @@ npm-debug.log
 
 # Vuepress build
 dist
+
+# .DS_Store
+.DS_Store
