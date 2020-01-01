@@ -2,6 +2,11 @@
 
 ## Past Meetups
 
+
+### Kick Those Scripts to the Sandbox: Web Security is Your Responsibility (2019.12.18)
+- Speaker: Andrew Dunkman
+- [Video](https://www.youtube.com/watch?v=QIWP4oabV9E)
+
 ### Type-Safe APIs - Syncing Back & Front End Types w/ Code Generation (2019.11.13)
 - Speaker: Jack Koppa (Politico)
 - [Workshop Code](https://github.com/jackkoppa/typesafe-api-clients-demo)
