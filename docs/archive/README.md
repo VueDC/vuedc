@@ -2,6 +2,15 @@
 
 ## Past Meetups
 
+### VueDC Lightning Talks January 2020 (2020.1.15)
+
+Speakers and Topics:
+
+508 Compliance and Front End development. Henggao Cai. [Video](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=0s)
+Minimizing State with Tagged Sums. Matthew Doig. [Video](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=916s)
+Vue + RxJS. Daren McCulley. [Video with no sound](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=1586s) [Code](https://www.notion.so/vuedc/Daren-McCulley-6473ee7750b74de6a79cc9678e3fb8c6)
+Mobile apps with VueJS and NativeScript. Dwight Barbour. [Video with no sound](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=2706s)
+OAuth with Vue.js: Sign-In with Facebook/Google/Slack/etc... John Tran.[Video](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=4267s) [Slides](https://speakerdeck.com/johnkntran/oauth-and-vuejs)
 
 ### Kick Those Scripts to the Sandbox: Web Security is Your Responsibility (2019.12.18)
 - Speaker: Andrew Dunkman
