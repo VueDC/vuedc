@@ -2,6 +2,25 @@
 
 ## Past Meetups
 
+### VueConf US 2020 Highlights (2020.2.18)
+
+Speakers:
+
+- Brandon Davis
+- Tracey Holinka
+- Ben Hong
+- Christian Guirreri
+- Jack Koppa
+- Brad Balfour
+- Bart Ledoux
+- Dan Silk
+- Hannah Sloss
+
+[Recording](https://www.youtube.com/watch?v=_hwG-DshQ-U)
+
+[Slides](https://docs.google.com/presentation/d/1dSfcrtxRu5mqQ0Vnc2Xkio1XBhXOPQ0QMrGLvPxWzFo/edit?usp=sharing)
+
+
 ### VueDC Lightning Talks January 2020 (2020.1.15)
 
 Speakers and Topics:
