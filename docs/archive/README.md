@@ -7,18 +7,16 @@
 Speakers:
 
 - Brandon Davis
+- Christian Guirreri
 - Tracey Holinka
 - Ben Hong
-- Christian Guirreri
 - Jack Koppa
 - Brad Balfour
 - Bart Ledoux
 - Dan Silk
 - Hannah Sloss
 
-[Recording](https://www.youtube.com/watch?v=_hwG-DshQ-U)
-
-[Slides](https://docs.google.com/presentation/d/1dSfcrtxRu5mqQ0Vnc2Xkio1XBhXOPQ0QMrGLvPxWzFo/edit?usp=sharing)
+[Recording](https://www.youtube.com/watch?v=_hwG-DshQ-U) & [Slides](https://docs.google.com/presentation/d/1dSfcrtxRu5mqQ0Vnc2Xkio1XBhXOPQ0QMrGLvPxWzFo/edit?usp=sharing)
 
 
 ### VueDC Lightning Talks January 2020 (2020.1.15)
@@ -27,7 +25,7 @@ Speakers and Topics:
 
 - 508 Compliance and Front End development. Henggao Cai. [Video](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=0s) | [Slides](https://github.com/VueDC/Lightning-Talks-January-2020/blob/master/508-Compliance-and-Front-End-Development.pdf)
 - Minimizing State with Tagged Sums. Matthew Doig. [Video](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=916s)
-- Vue + RxJS. Daren McCulley. [Video with no sound](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=1586s) | [Code](https://www.notion.so/vuedc/Daren-McCulley-6473ee7750b74de6a79cc9678e3fb8c6)
+- Vue + RxJS. Daren McCulley. [Video with no sound](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=1586s) | [Code](https://github.com/mcculleydj/vue-rxjs)
 - Mobile apps with VueJS and NativeScript. Dwight Barbour. [Video with no sound](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=2706s) | [Slides](https://docs.google.com/presentation/d/1h6tdrzZhlSa9QRJdqjcr-HyqDHvdL8AHaCAsNVZ-zyE/edit#slide=id.p)
 - OAuth with Vue.js: Sign-In with Facebook/Google/Slack/etc... John Tran. [Video](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=4267s) | [Slides](https://speakerdeck.com/johnkntran/oauth-and-vuejs)
 
