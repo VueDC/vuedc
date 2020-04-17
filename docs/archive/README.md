@@ -6,6 +6,8 @@
 
 - Speaker: Daren McCulley (SOS International)
 - [Recording](https://www.youtube.com/watch?v=sgSV681n18I)
+- [Sandbox](https://github.com/mcculleydj/rxjs-sandbox)
+- [Demo Code](https://github.com/mcculleydj/rxjs-demo)
 
 ### VueConf US 2020 Highlights (2020.2.18)
 
