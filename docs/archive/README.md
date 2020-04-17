@@ -2,41 +2,39 @@
 
 ## Past Meetups
 
+### Introduction to Vue-rx (2020.4.15)
+
+- Speaker: Daren McCulley (SOS International)
+- [Recording](https://www.youtube.com/watch?v=sgSV681n18I)
+
 ### VueConf US 2020 Highlights (2020.2.18)
 
 Speakers:
 
-- Brandon Davis
-- Christian Guirreri
-- Tracey Holinka
-- Ben Hong
-- Jack Koppa
-- Brad Balfour
-- Bart Ledoux
-- Dan Silk
-- Hannah Sloss
+- Brandon Davis, Christian Guirreri, Tracey Holinka, Ben Hong & Jack Koppa
+- Brad Balfour, Bart Ledoux, Dan Silk & Hannah Sloss
 
-[Recording](https://www.youtube.com/watch?v=_hwG-DshQ-U) & [Slides](https://docs.google.com/presentation/d/1dSfcrtxRu5mqQ0Vnc2Xkio1XBhXOPQ0QMrGLvPxWzFo/edit?usp=sharing)
+[Recording](https://www.youtube.com/watch?v=_hwG-DshQ-U) | [Slides](https://docs.google.com/presentation/d/1dSfcrtxRu5mqQ0Vnc2Xkio1XBhXOPQ0QMrGLvPxWzFo/edit?usp=sharing)
 
 
 ### VueDC Lightning Talks January 2020 (2020.1.15)
 
 Speakers and Topics:
 
-- 508 Compliance and Front End development. Henggao Cai. [Video](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=0s) | [Slides](https://github.com/VueDC/Lightning-Talks-January-2020/blob/master/508-Compliance-and-Front-End-Development.pdf)
-- Minimizing State with Tagged Sums. Matthew Doig. [Video](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=916s)
-- Vue + RxJS. Daren McCulley. [Video with no sound](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=1586s) | [Code](https://github.com/mcculleydj/vue-rxjs)
+- 508 Compliance and Front End development. Henggao Cai. [Recording](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=0s) | [Slides](https://github.com/VueDC/Lightning-Talks-January-2020/blob/master/508-Compliance-and-Front-End-Development.pdf)
+- Minimizing State with Tagged Sums. Matthew Doig. [Recording](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=916s)
+- Vue + RxJS. Daren McCulley. [Recording with no sound](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=1586s) | [Code](https://github.com/mcculleydj/vue-rxjs)
 - Mobile apps with VueJS and NativeScript. Dwight Barbour. [Video with no sound](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=2706s) | [Slides](https://docs.google.com/presentation/d/1h6tdrzZhlSa9QRJdqjcr-HyqDHvdL8AHaCAsNVZ-zyE/edit#slide=id.p)
-- OAuth with Vue.js: Sign-In with Facebook/Google/Slack/etc... John Tran. [Video](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=4267s) | [Slides](https://speakerdeck.com/johnkntran/oauth-and-vuejs)
+- OAuth with Vue.js: Sign-In with Facebook/Google/Slack/etc... John Tran. [Recording](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=4267s) | [Slides](https://speakerdeck.com/johnkntran/oauth-and-vuejs)
 
 ### Kick Those Scripts to the Sandbox: Web Security is Your Responsibility (2019.12.18)
 - Speaker: Andrew Dunkman
-- [Video](https://www.youtube.com/watch?v=QIWP4oabV9E)
+- [Recording](https://www.youtube.com/watch?v=QIWP4oabV9E)
 
 ### Type-Safe APIs - Syncing Back & Front End Types w/ Code Generation (2019.11.13)
 - Speaker: Jack Koppa (Politico)
 - [Workshop Code](https://github.com/jackkoppa/typesafe-api-clients-demo)
-- [Video](https://www.youtube.com/watch?v=Tbn04FU3Ku0)
+- [Recording](https://www.youtube.com/watch?v=Tbn04FU3Ku0)
 - [Slides](https://docs.google.com/presentation/d/1foL-tGd4PKQzhX7-etfV86ezgF74Z9QfSpIO-ivEe2o/edit#slide=id.g35f391192_04)
 
 ### Taking GraphQL, Apollo & Vue.js to the Next Level (2019.9.18)
@@ -47,7 +45,7 @@ Speakers and Topics:
 ### Vue.js + D3: Creating Beautiful Visualizations (2019.8.14)
 - Speaker: Jon Snyder (ONE Discovery)
 - [Workshop Code](https://github.com/thegoodideaco/visualizing-hierarchies)
-- [Video](https://www.youtube.com/watch?v=GuecoTcqmVE&feature=youtu.be)
+- [Recording](https://www.youtube.com/watch?v=GuecoTcqmVE&feature=youtu.be)
 
 ### Hello Weather - Let's explore Vue Native together! (2019.7.24)
 
