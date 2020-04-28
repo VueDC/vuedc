@@ -101,7 +101,7 @@ Speakers and Topics:
 - "Vue Patterns - Learnings going from Backbone to Vue" by Thibaud Morel (@teebesz)
 - "Page Structure APIs and Dynamic Components" by Evan Sanderson
 
-[Recording](https://www.youtube.com/watch?v=O3mncERjW-A&t=7s)
+[Recording](https://youtu.be/O3mncERjW-A)
 
 ### VueDC Workshops: Let's Add TypeScript (2018.12.12)
 
@@ -118,10 +118,32 @@ Speakers and Topics:
 - Speaker: Tracey Holinka (Bloomberg BNA)
 - [Slides, Demo Code & Recording](https://github.com/VueDC/storybook-and-storyshot-testing-with-vuejs)
 
+### Vuex in Action! (2018.07.11)
+
+- Speaker: Jacob Schatz (GitLab)
+
 ### Testing in Vue.js (2018.06.20)
 
 - Speaker: Brian Kidd (Bloomberg BNA)
 - [Slides, Demo Code & Recording](https://github.com/VueDC/testing-in-vuejs)
+
+### Vue.js Lightning Talks! (2018.05.16)
+
+Speakers and Topics:
+
+- Intro to TypeScript: Kris Rivera
+- TypeScript & Vue: Christian Guirreri
+- Vue.js WebExtensions: Brandon Davis
+- Code Shop Timer: Muzafar Umarov
+
+- [Recording](https://youtu.be/b9pK8VDYdY4)
+
+### VueConf.US 2018 Highlights! (2018.4.18)
+
+Speakers: 
+- Chris Guirreri (Politico)
+- Tracey Holinka (Bloomberg BNA)
+- Ben Hong (GitLab)
 
 ### Vue.js – Beyond REST to GraphQL (2018.03.14)
 
@@ -141,4 +163,4 @@ Speakers and Topics:
 ### Vue.js 101 (2017.12.06)
 
 - Speaker: Benjamin Hong (Politico)
-- [Recording, Slides, Vue.js 101 Kit CodePen Collection](https://github.com/VueDC/testing-in-vuejs)
+- [Recording, Slides, Vue.js 101 Kit CodePen Collection](https://github.com/VueDC/vuejs-101-the-essentials)
