@@ -2,10 +2,16 @@
 
 ## Past Meetups
 
+### Creating a Modern Web App Using Vue.js and Spring Boot with JHipster (2020.5.13)
+
+- Speaker: Theo Lebrun (Ippon USA)
+- [Recording](https://youtu.be/MdQKQoYxJ-w)
+
+
 ### Introduction to Vue-rx (2020.4.15)
 
 - Speaker: Daren McCulley (SOS International)
-- [Recording](https://www.youtube.com/watch?v=sgSV681n18I)
+- [Recording](https://youtu.be/sgSV681n18I)
 - [Sandbox Code](https://github.com/mcculleydj/rxjs-sandbox)
 - [Demo Code](https://github.com/mcculleydj/rxjs-demo)
 
@@ -16,7 +22,7 @@ Speakers:
 - Brandon Davis, Christian Guirreri, Tracey Holinka, Ben Hong & Jack Koppa
 - Brad Balfour, Bart Ledoux, Dan Silk & Hannah Sloss
 
-[Recording](https://www.youtube.com/watch?v=_hwG-DshQ-U) | [Slides](https://docs.google.com/presentation/d/1dSfcrtxRu5mqQ0Vnc2Xkio1XBhXOPQ0QMrGLvPxWzFo/edit?usp=sharing)
+[Recording](https://youtu.be/_hwG-DshQ-U) | [Slides](https://docs.google.com/presentation/d/1dSfcrtxRu5mqQ0Vnc2Xkio1XBhXOPQ0QMrGLvPxWzFo/edit?usp=sharing)
 
 
 ### VueDC Lightning Talks January 2020 (2020.1.15)
