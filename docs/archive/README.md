@@ -5,8 +5,7 @@
 ### 7 Secrets of Highly Successful Developers (2020.6.17)
 
 - Speaker: Kim Maida
-- [Recording](https://youtu.be/oS0eUyhgenc)
-- [Slides](https://bit.ly/7secrets-devs)
+- [Recording](https://youtu.be/oS0eUyhgenc) | [Slides](https://bit.ly/7secrets-devs)
 
 ### Creating a Modern Web App Using Vue.js and Spring Boot with JHipster (2020.5.13)
 
@@ -17,9 +16,7 @@
 ### Introduction to Vue-rx (2020.4.15)
 
 - Speaker: Daren McCulley (SOS International)
-- [Recording](https://youtu.be/sgSV681n18I)
-- [Sandbox Code](https://github.com/mcculleydj/rxjs-sandbox)
-- [Demo Code](https://github.com/mcculleydj/rxjs-demo)
+- [Recording](https://youtu.be/sgSV681n18I) | [Sandbox Code](https://github.com/mcculleydj/rxjs-sandbox) | [Demo Code](https://github.com/mcculleydj/rxjs-demo)
 
 ### VueConf US 2020 Highlights (2020.3.18)
 
@@ -50,19 +47,15 @@ Speakers and Topics:
 
 ### Type-Safe APIs - Syncing Back & Front End Types w/ Code Generation (2019.11.13)
 - Speaker: Jack Koppa (Politico)
-- [Workshop Code](https://github.com/jackkoppa/typesafe-api-clients-demo)
-- [Recording](https://youtu.be/Tbn04FU3Ku0)
-- [Slides](https://docs.google.com/presentation/d/1foL-tGd4PKQzhX7-etfV86ezgF74Z9QfSpIO-ivEe2o/edit#slide=id.g35f391192_04)
+- [Workshop Code](https://github.com/jackkoppa/typesafe-api-clients-demo) | [Recording](https://youtu.be/Tbn04FU3Ku0) | [Slides](https://docs.google.com/presentation/d/1foL-tGd4PKQzhX7-etfV86ezgF74Z9QfSpIO-ivEe2o/edit#slide=id.g35f391192_04)
 
 ### Taking GraphQL, Apollo & Vue.js to the Next Level (2019.9.18)
 - Speakers: Ronald Rogers (Bloomberg Industry Group), Ben Hong (GitLab) & Tracey Holinka (Bloomberg Industry Group)
-- [Workshop Code](https://github.com/ronald-d-rogers/vue-graphql-workshop)
-- [Slides](https://youtu.be/xO3w3_hBRVQ)
+- [Workshop Code](https://github.com/ronald-d-rogers/vue-graphql-workshop) | [Slides](https://youtu.be/xO3w3_hBRVQ)
 
 ### Vue.js + D3: Creating Beautiful Visualizations (2019.8.14)
 - Speaker: Jon Snyder (ONE Discovery)
-- [Workshop Code](https://github.com/thegoodideaco/visualizing-hierarchies)
-- [Recording](https://youtu.be/GuecoTcqmVE)
+- [Workshop Code](https://github.com/thegoodideaco/visualizing-hierarchies) | [Recording](https://youtu.be/GuecoTcqmVE)
 
 ### Hello Weather - Let's explore Vue Native together! (2019.7.24)
 
@@ -72,7 +65,7 @@ Speakers and Topics:
 ### CSS Modules in Vue.js (2019.6.19)
 
 - Speaker: Tracey Holinka (Bloomberg BNA)
-- [Demo Code & Slides](https://github.com/TraceyHolinka/css-modules-in-vuejs)
+- [Demo Code](https://github.com/TraceyHolinka/css-modules-in-vuejs) | [Slides](https://github.com/TraceyHolinka/css-modules-in-vuejs/blob/master/UsingCSSModulesInVueSlides.pdf)
 
 ### Lightning Talks (2019.5.15)
 
@@ -105,8 +98,7 @@ Speakers and Topics:
 ### Optoro's Next Steps with Vue.js (2019.2.13)
 
 - Speaker: Andrew Krawchyk (Optoro)
-- [Slides](https://github.com/VueDC/Optoros-Next-Steps-with-Vue.js/blob/master/Optoros-Next-Steps-with-Vuejs.pdf)
-- [Recording](https://youtu.be/jLKE4yh8jao)
+- [Slides](https://github.com/VueDC/Optoros-Next-Steps-with-Vue.js/blob/master/Optoros-Next-Steps-with-Vuejs.pdf) | [Recording](https://youtu.be/jLKE4yh8jao)
 
 ### VueDC Lightning Talks 2019! (2019.1.16)
 
@@ -127,16 +119,12 @@ Speakers and Topics:
 ### Vue CLI 3 Walkthrough (2018.10.17)
 
 - Speaker: Christian Guirreri (Politico)
-- [Code](https://github.com/VueDC/vue-cli-3-walkthrough/tree/master/examples)
-- [Recording](https://www.youtube.com/watch?v=V1XmpLeA9wI)
-- [Slides](https://github.com/VueDC/vue-cli-3-walkthrough/blob/master/slides/2018-10-17-vue-cli-3-walkthroughWalkthrough.pdf)
+- [Code](https://github.com/VueDC/vue-cli-3-walkthrough/tree/master/examples) | [Recording](https://www.youtube.com/watch?v=V1XmpLeA9wI) | [Slides](https://github.com/VueDC/vue-cli-3-walkthrough/blob/master/slides/2018-10-17-vue-cli-3-walkthroughWalkthrough.pdf)
 
 ### Storybook and Storyshot Testing w/ Vue.js (2018.09.19)
 
 - Speaker: Tracey Holinka (Bloomberg BNA)
-- [Slides](https://github.com/VueDC/storybook-and-storyshot-testing-with-vuejs/blob/master/slides.pdf)
-- [Demo Code](https://github.com/TraceyHolinka/storybook-and-storyshot-testing-with-vuejs)
-- [Recording](https://youtu.be/DJUbEwpIjjc)
+- [Slides](https://github.com/VueDC/storybook-and-storyshot-testing-with-vuejs/blob/master/slides.pdf) | [Demo Code](https://github.com/TraceyHolinka/storybook-and-storyshot-testing-with-vuejs) | [Recording](https://youtu.be/DJUbEwpIjjc)
 
 ### Vuex in Action! (2018.07.11)
 
@@ -145,9 +133,7 @@ Speakers and Topics:
 ### Testing in Vue.js (2018.06.20)
 
 - Speaker: Brian Kidd (Bloomberg BNA)
-- [Slides](https://docs.google.com/presentation/d/1DbEqi6DlWkycVz1b7iVGJY_25XuhjIz32ZCaLkB4AgU/edit#slide=id.p)
-- [Code Repo](https://github.com/wickkidd/vue-test-utils-jest-example)
-- [Recording](https://youtu.be/-HNw7_CKnGk)
+- [Slides](https://docs.google.com/presentation/d/1DbEqi6DlWkycVz1b7iVGJY_25XuhjIz32ZCaLkB4AgU/edit#slide=id.p) | [Code Repo](https://github.com/wickkidd/vue-test-utils-jest-example) | [Recording](https://youtu.be/-HNw7_CKnGk)
 
 ### Vue.js Lightning Talks! (2018.05.16)
 
@@ -169,13 +155,17 @@ Speakers:
 
 ### Vue.js – Beyond REST to GraphQL (2018.03.14)
 
-- Speakers: Tracey Holinka, Priya Kathiri & Ronald Rogers (Bloomberg BNA)
-- [Slides, Demo Code & Recording](https://github.com/VueDC/beyond-rest-to-graphql)
+Speakers:
+- Priya Kathiri (Bloomberg BNA)
+- Ronald Rogers (Bloomberg BNA)
+- Tracey Holinka (Bloomberg BNA)
+
+[Demo Code](https://github.com/VueDC/beyond-rest-to-graphql) | [Slides](https://github.com/VueDC/beyond-rest-to-graphql/blob/master/slides.pdf) | [Recording](https://youtu.be/EpMIR6qKqIE) | 
 
 ### Not Quite a Library: Reusing Components Before You're Sure How (2018.02.13)
 
 - Speaker: Dylan Hughes (Optoro)
-- [Recording, Sildes & Book Reference](https://github.com/VueDC/not-quite-a-library)
+- [Recording](https://youtu.be/jfa0p_esE1Q) | [Sildes](https://github.com/VueDC/not-quite-a-library/blob/master/Not%20Quite%20a%20Library%20Slides.pdf) | [Book Reference](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N/ref=sr_1_1?ie=UTF8&qid=1518566768&sr=8-1&keywords=inspired)
 
 ### Vue.js 201 (2018.01.17)
 
