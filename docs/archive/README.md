@@ -2,6 +2,12 @@
 
 ## Past Meetups
 
+### 7 Secrets of Highly Successful Developers (2020.6.17)
+
+- Speaker: Kim Maida
+- [Recording](https://youtu.be/oS0eUyhgenc)
+- [Slides](https://bit.ly/7secrets-devs)
+
 ### Creating a Modern Web App Using Vue.js and Spring Boot with JHipster (2020.5.13)
 
 - Speaker: Theo Lebrun (Ippon USA)
@@ -15,7 +21,7 @@
 - [Sandbox Code](https://github.com/mcculleydj/rxjs-sandbox)
 - [Demo Code](https://github.com/mcculleydj/rxjs-demo)
 
-### VueConf US 2020 Highlights (2020.2.18)
+### VueConf US 2020 Highlights (2020.3.18)
 
 Speakers:
 
@@ -24,6 +30,9 @@ Speakers:
 
 [Recording](https://youtu.be/_hwG-DshQ-U) | [Slides](https://docs.google.com/presentation/d/1dSfcrtxRu5mqQ0Vnc2Xkio1XBhXOPQ0QMrGLvPxWzFo/edit?usp=sharing)
 
+### Deep Dive into Vue.js Reactivity (2020.2.19)
+
+- Speaker: Andrew Baik(QOMPLX)
 
 ### VueDC Lightning Talks January 2020 (2020.1.15)
 
@@ -37,12 +46,12 @@ Speakers and Topics:
 
 ### Kick Those Scripts to the Sandbox: Web Security is Your Responsibility (2019.12.18)
 - Speaker: Andrew Dunkman
-- [Recording](https://www.youtube.com/watch?v=QIWP4oabV9E)
+- [Recording](https://youtu.be/QIWP4oabV9E)
 
 ### Type-Safe APIs - Syncing Back & Front End Types w/ Code Generation (2019.11.13)
 - Speaker: Jack Koppa (Politico)
 - [Workshop Code](https://github.com/jackkoppa/typesafe-api-clients-demo)
-- [Recording](https://www.youtube.com/watch?v=Tbn04FU3Ku0)
+- [Recording](https://youtu.be/Tbn04FU3Ku0)
 - [Slides](https://docs.google.com/presentation/d/1foL-tGd4PKQzhX7-etfV86ezgF74Z9QfSpIO-ivEe2o/edit#slide=id.g35f391192_04)
 
 ### Taking GraphQL, Apollo & Vue.js to the Next Level (2019.9.18)
@@ -53,7 +62,7 @@ Speakers and Topics:
 ### Vue.js + D3: Creating Beautiful Visualizations (2019.8.14)
 - Speaker: Jon Snyder (ONE Discovery)
 - [Workshop Code](https://github.com/thegoodideaco/visualizing-hierarchies)
-- [Recording](https://www.youtube.com/watch?v=GuecoTcqmVE&feature=youtu.be)
+- [Recording](https://youtu.be/GuecoTcqmVE)
 
 ### Hello Weather - Let's explore Vue Native together! (2019.7.24)
 
@@ -96,7 +105,8 @@ Speakers and Topics:
 ### Optoro's Next Steps with Vue.js (2019.2.13)
 
 - Speaker: Andrew Krawchyk (Optoro)
-- [Slides & Recording](https://github.com/VueDC/Optoros-Next-Steps-with-Vue.js)
+- [Slides](https://github.com/VueDC/Optoros-Next-Steps-with-Vue.js/blob/master/Optoros-Next-Steps-with-Vuejs.pdf)
+- [Recording](https://youtu.be/jLKE4yh8jao)
 
 ### VueDC Lightning Talks 2019! (2019.1.16)
 
@@ -117,12 +127,16 @@ Speakers and Topics:
 ### Vue CLI 3 Walkthrough (2018.10.17)
 
 - Speaker: Christian Guirreri (Politico)
-- [Slides & Recording](https://github.com/VueDC/vue-cli-3-walkthrough)
+- [Code](https://github.com/VueDC/vue-cli-3-walkthrough/tree/master/examples)
+- [Recording](https://www.youtube.com/watch?v=V1XmpLeA9wI)
+- [Slides](https://github.com/VueDC/vue-cli-3-walkthrough/blob/master/slides/2018-10-17-vue-cli-3-walkthroughWalkthrough.pdf)
 
 ### Storybook and Storyshot Testing w/ Vue.js (2018.09.19)
 
 - Speaker: Tracey Holinka (Bloomberg BNA)
-- [Slides, Demo Code & Recording](https://github.com/VueDC/storybook-and-storyshot-testing-with-vuejs)
+- [Slides](https://github.com/VueDC/storybook-and-storyshot-testing-with-vuejs/blob/master/slides.pdf)
+- [Demo Code](https://github.com/TraceyHolinka/storybook-and-storyshot-testing-with-vuejs)
+- [Recording](https://youtu.be/DJUbEwpIjjc)
 
 ### Vuex in Action! (2018.07.11)
 
@@ -131,7 +145,9 @@ Speakers and Topics:
 ### Testing in Vue.js (2018.06.20)
 
 - Speaker: Brian Kidd (Bloomberg BNA)
-- [Slides, Demo Code & Recording](https://github.com/VueDC/testing-in-vuejs)
+- [Slides](https://docs.google.com/presentation/d/1DbEqi6DlWkycVz1b7iVGJY_25XuhjIz32ZCaLkB4AgU/edit#slide=id.p)
+- [Code Repo](https://github.com/wickkidd/vue-test-utils-jest-example)
+- [Recording](https://youtu.be/-HNw7_CKnGk)
 
 ### Vue.js Lightning Talks! (2018.05.16)
 
@@ -142,7 +158,7 @@ Speakers and Topics:
 - Vue.js WebExtensions: Brandon Davis
 - Code Shop Timer: Muzafar Umarov
 
-- [Recording](https://youtu.be/b9pK8VDYdY4)
+[Recording](https://youtu.be/b9pK8VDYdY4)
 
 ### VueConf.US 2018 Highlights! (2018.4.18)
 
