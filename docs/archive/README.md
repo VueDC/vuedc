@@ -2,6 +2,26 @@
 
 ## Past Meetups
 
+### Getting Ready for Vue 3! (2020.8.19)
+
+Panelists:
+
+- Ben Hong (Cypress.io & Vue Core Team Member)
+- Jack Koppa (Politico)
+- Tracey Holinka (Bloomberg Industry Group)
+- Christian Guirreri (Politico)
+
+[Recording](https://youtu.be/9vQATaDdjqk)
+
+
+### VueDC Lightning Talks January 2020 (2020.7.22)
+Speakers and Topics:
+
+- Brad Balfour - How Vue Made App Development Simpler
+- Ben Hong - Intro to Vuetify
+
+[Recording](https://youtu.be/HP3kngVoT9w) 
+
 ### 7 Secrets of Highly Successful Developers (2020.6.17)
 
 - Speaker: Kim Maida
