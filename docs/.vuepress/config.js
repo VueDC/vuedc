@@ -15,8 +15,18 @@ module.exports = {
 				link: '/community/'
 			},
 			{
-				text: 'Archive',
-				link: '/archive/'
+				text: 'Archives',
+        link: '/archives/',
+        items: [
+          {
+            text: 'Speaker Archives',
+            link: '/archives/'
+          },
+          {
+            text: 'Trivia Winners',
+            link: '/archives/winners'
+          }
+        ]
 			},
 			{
 				text: 'Resources',
@@ -26,6 +36,14 @@ module.exports = {
 				text: 'Code of Conduct',
 				link: '/code-of-conduct/'
 			}
-		]
+    ],
+    sidebar: [
+      {
+        title: 'Past Speakers',
+        path: '/archives/',
+        collapsable: false,
+        sidebarDepth: 1
+      }
+    ]
 	}
 }
