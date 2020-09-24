@@ -2,13 +2,11 @@
 	from = "/discord"
 	to = "https://discord.gg/6MZWP8z"
 	status = 301
-
 [[redirects]]
-  from = "/speaking
-  to= "https://forms.gle/4q8sbAhx64wJmDWYA"
-  status = 301
-
+	from = "/speaking
+	to= "https://forms.gle/4q8sbAhx64wJmDWYA"
+	status = 301
 [[redirects]]
-  from = "/archive
-  to= "/archives
-  status = 301
+	from = "/archive
+	to= "/archives
+	status = 301
