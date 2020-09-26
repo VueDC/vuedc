@@ -1,6 +1,16 @@
-# Archive
+---
+sidebar: 'Past Speakers'
+---
 
-## Past Meetups
+# Past Speakers
+
+## 2020 Meetups
+
+### HTML Email with Vue.js (2020.9.16)
+
+- Speaker: Tracey Holinka (Bloomberg Industry Group)
+- [Code](https://github.com/TraceyHolinka/vuejs-email-renderer)
+- [Recording](https://youtu.be/ZpanV5DQlbs)
 
 ### Getting Ready for Vue 3! (2020.8.19)
 
@@ -13,8 +23,8 @@ Panelists:
 
 [Recording](https://youtu.be/9vQATaDdjqk)
 
-
 ### VueDC Lightning Talks January 2020 (2020.7.22)
+
 Speakers and Topics:
 
 - Brad Balfour - How Vue Made App Development Simpler
@@ -60,6 +70,8 @@ Speakers and Topics:
 - Vue + RxJS. Daren McCulley. [Recording with no sound](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=1586s) | [Code](https://github.com/mcculleydj/vue-rxjs)
 - Mobile apps with VueJS and NativeScript. Dwight Barbour. [Video with no sound](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=2706s) | [Slides](https://docs.google.com/presentation/d/1h6tdrzZhlSa9QRJdqjcr-HyqDHvdL8AHaCAsNVZ-zyE/edit#slide=id.p)
 - OAuth with Vue.js: Sign-In with Facebook/Google/Slack/etc... John Tran. [Recording](https://www.youtube.com/watch?v=Oq-MRAQcwqM&t=4267s) | [Slides](https://speakerdeck.com/johnkntran/oauth-and-vuejs)
+
+## 2019 Meetups
 
 ### Kick Those Scripts to the Sandbox: Web Security is Your Responsibility (2019.12.18)
 - Speaker: Andrew Dunkman
@@ -131,6 +143,8 @@ Speakers and Topics:
 
 [Recording](https://youtu.be/O3mncERjW-A)
 
+## 2018 Meetups
+
 ### VueDC Workshops: Let's Add TypeScript (2018.12.12)
 
 - Speaker: Jack Koppa (Politico)
@@ -196,3 +210,4 @@ Speakers:
 
 - Speaker: Benjamin Hong (Politico)
 - [Recording, Slides, Vue.js 101 Kit CodePen Collection](https://github.com/VueDC/vuejs-101-the-essentials)
+
