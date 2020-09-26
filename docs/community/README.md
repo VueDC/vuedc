@@ -14,7 +14,7 @@ sidebar: auto
 
 ## Speak at Our Meetup
 
-Do you want to speak at a DC meetup? The fillout our [submission form](https://www.vuedc.io/speaker/).
+Do you want to speak at a DC meetup? The fillout our [submission form](/speaking).
 
 ## Current Sponsors
 
