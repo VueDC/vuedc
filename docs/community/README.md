@@ -18,7 +18,7 @@ Do you want to speak at a DC meetup? The fillout our [submission form](https://w
 
 ## Current Sponsors
 
-- [JetBrains](https://www.jetbrains.com/) Donates IDE license for monlthly Meetup raffle.
+- [JetBrains](https://www.jetbrains.com/) Donates IDE licenses for monlthly Meetup raffle.
 
 ## Organizers
 
