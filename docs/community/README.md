@@ -20,7 +20,7 @@ Do you want to speak at a DC meetup? The fillout our [submission form](https://w
 
 ![JetBrains Logo](../../assets/jetbrains.png)
 
-[JetBrains](https://www.jetbrains.com/) Donates IDE licenses for monlthly Meetup raffle.
+[JetBrains](https://www.jetbrains.com/) Donates IDE licenses for monthly Meetup raffle.
 
 ## Organizers
 
