@@ -18,7 +18,9 @@ Do you want to speak at a DC meetup? The fillout our [submission form](https://w
 
 ## Current Sponsors
 
-- [JetBrains](https://www.jetbrains.com/) Donates IDE licenses for monlthly Meetup raffle.
+![JetBrains Logo](../../assets/jetbrains.png)
+
+[JetBrains](https://www.jetbrains.com/) Donates IDE licenses for monthly Meetup raffle.
 
 ## Organizers
 
@@ -28,5 +30,6 @@ Do you want to speak at a DC meetup? The fillout our [submission form](https://w
 - Jack Koppa ([@jackpkoppa](https://twitter.com/jackpkoppa))
 
 ## Past Sponsors
+
 - [Politico](https://www.politico.com/about-us)
 - [Bloomberg Industry Group](https://www.bloombergindustry.com/about-us/)
