@@ -6,6 +6,13 @@ sidebar: 'Past Speakers'
 
 ## 2020 Meetups
 
+### Intro to Vue.js Workshop (2020.10.21)
+
+- Speakers: Tracey Holinka (Bloomberg Industry Group) & Christian Guirreri (Politico)
+- [Code](https://bit.ly/30pxGi4)
+- [Recording](https://youtu.be/FZvo4aHzleU)
+- [Slides](https://bit.ly/32cmjcV)
+
 ### HTML Email with Vue.js (2020.9.16)
 
 - Speaker: Tracey Holinka (Bloomberg Industry Group)
