@@ -4,6 +4,14 @@ sidebar: auto
 
 # Trivia Winners
 
+## October 2020
+
+| Place  | Round 1    | Round 2    |
+| -----  | ---------- | ---------- |
+| First  | NoVue@all  | NoVue@all  |
+| Second | billcathey | billcathey |
+| Third  | jim        | carrot     |
+
 ## September 2020
 
 | Place  | Round 1          | Round 2        |
@@ -15,7 +23,7 @@ sidebar: auto
 ## August 2020
 
 | Place  | Round 1         | Round 2  |
-| -----  | ----------------| -------- |
+| -----  | --------------- | -------- |
 | First  | 3rd eye         | Silkster |
 | Second | Ryan G          | Matt     |
 | Third  | v-bind:username | DK       |
