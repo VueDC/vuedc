@@ -18,7 +18,7 @@ sidebar: 'Past Speakers'
 - Speaker: Tracey Holinka (Bloomberg Industry Group)
 - [Code](https://github.com/TraceyHolinka/vuejs-email-renderer)
 - [Recording](https://youtu.be/ZpanV5DQlbs)
-- [Slides](https://bit.ly/3k5eKuJ)
+- [Slides](http://bit.ly/html-email-with-vuejs-meetup)
 
 ### Getting Ready for Vue 3! (2020.8.19)
 
